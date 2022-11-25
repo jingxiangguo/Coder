@@ -54,17 +54,17 @@ int main()
 
 
 
-#### ```size()```
+### ```size()```
 
-#### ```push_back()```
-#### ```capacity()```
-#### ```shrink_to_fit()```
-#### ```resize()```
-#### ```data()```
-#### ```empty()```
-#### ```clear()```
-#### ```emplace()```
-#### ```emplace_back()```
+### ```push_back()```
+### ```capacity()```
+### ```shrink_to_fit()```
+### ```resize()```
+### ```data()```
+### ```empty()```
+### ```clear()```
+### ```emplace()```
+### ```emplace_back()```
 
 ## Applications 
 
