@@ -180,10 +180,10 @@ collections:
   publications:
     output: true
     permalink: /:collection/:path/
-  research:
+  learning:
     output: true
     permalink: /:collection/:path/
-  talks:
+  software:
     output: true
     permalink: /:collection/:path/
 
