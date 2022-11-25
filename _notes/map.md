@@ -48,19 +48,21 @@ int main()
 }
 
 ```
-#### ```size()```
-#### ```push_back()```
-#### ```capacity()```
-#### ```shrink_to_fit()```
-#### ```resize()```
-#### ```data()```
-#### ```empty()```
-#### ```clear()```
-#### ```emplace()```
-#### ```emplace_back()```
-#### ```max_size()```
-#### ```reserve()```
 
-## Applications
+### ```size()```
+### ```push_back()```
+### ```capacity()```
+### ```shrink_to_fit()```
+### ```resize()```
+### ```data()```
+### ```empty()```
+### ```clear()```
+### ```emplace()```
+### ```emplace_back()```
+### ```max_size()```
+### ```reserve()```
+This is the reserve keyword
+
+## Final
 * This is the first application of 
 * Try 2 
