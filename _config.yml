@@ -180,7 +180,7 @@ collections:
   publications:
     output: true
     permalink: /:collection/:path/
-  learning:
+  notes:
     output: true
     permalink: /:collection/:path/
   software:
