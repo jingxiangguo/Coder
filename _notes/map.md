@@ -7,8 +7,6 @@ author_profile: true
 toc: true
 ---
 ## Background 
----
-
 
 After working with C++ in large software projects and reading numerous threads on the Stack Overflow, I realize how distant I am from completely mastering C++. As a novice, I often googled my guesses first, and then rushed to apply what I just learnt to get the work done without thinking about potentially costy trade-offs under the hood. As my experience grew, I no longer fantasied about a quick and dirty solution that solves once for all. Instead, I learn to assess the merit of a solution based on how well the overall design objectives are served. Such assessment will be deeply rooted in the understandings of C++ foundamentals, which, to me, are not trivial tasks to accomplish.    
 
@@ -62,18 +60,7 @@ int main()
 #### ```emplace_back()```
 #### ```max_size()```
 #### ```reserve()```
-Check the content 
-This is not the only way.
 
-## Applications 
-
-### Case1: Iterate two ```std::vector``` simulatenously
-
-## References:
-When $a \ne 0$, there are two solutions to $(ax^2 + bx + c = 0)$ and they are 
-$$ x = {-b \pm \sqrt{b^2-4ac} \over 2a} $$
-
-## C++ Basics
-
-## C++ Move 
-
+## Applications
+* This is the first application of 
+* Try 2 
