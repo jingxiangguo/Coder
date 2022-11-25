@@ -25,9 +25,7 @@ There are 6 major components of C++ STL: `container`, `algorithm`, `allocator`, 
 
 ## Adaptor 
 
-[std::map type1](../_learning/map.md)
-[std::map type2](/learning/map.md) 
-[std::map type3](_learning/map/map.md) 
+[std::map type1]({% link /_learning/map.md %})
 
 
 
