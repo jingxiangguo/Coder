@@ -2,7 +2,7 @@
 layout: single
 title: 'map'
 date: 2022-11-22
-permalink: /notes/vector/wiki/
+permalink: /notes/vector/vector/
 author_profile: true
 toc: true
 ---
@@ -66,17 +66,11 @@ int main()
 #### ```emplace()```
 #### ```emplace_back()```
 
-
-
-
-
 ## Applications 
 
-#### Case1: Iterate two ```std::vector``` simulatenously
-
+### Case1: Iterate two ```std::vector``` simulatenously
 
 ## References:
-
 
 ## ```std::stack``` 
 it is a container adapator
@@ -88,9 +82,7 @@ it is a container adapator
 When $a \ne 0$, there are two solutions to $(ax^2 + bx + c = 0)$ and they are 
 $$ x = {-b \pm \sqrt{b^2-4ac} \over 2a} $$
 
+## C++ Basics
 
-
-# C++ Basics
-
-# C++ Move 
+## C++ Move 
 
