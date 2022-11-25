@@ -1,7 +1,7 @@
 ---
 title: 'map'
 date: 2022-11-22
-permalink: /learning/map/
+permalink: /notes/map/
 toc: true
 ---
 ## Background 
