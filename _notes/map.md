@@ -16,7 +16,7 @@ The purpose of writing this note is not to introduce all the nuts and bolts of C
 
 [vector]({{ site.baseurl }}{% link _notes/vector/vector.md %})
 
-## ```std::vector```
+## Methods 
 * It is a sequential container
 * The container itself can be allocated on the ```stack``` as a local variable in a function, but it owns and manages memories on the ```heap```. Also, the container can be dynamically allocated on the ```heap``` with its managed memory also on the ```heap```. The code snippet below shows two different memory locations.  
 
@@ -50,11 +50,7 @@ int main()
 }
 
 ```
-
-
-
 #### ```size()```
-
 #### ```push_back()```
 #### ```capacity()```
 #### ```shrink_to_fit()```
@@ -74,15 +70,6 @@ This is not the only way.
 ### Case1: Iterate two ```std::vector``` simulatenously
 
 ## References:
-
-
-## ```std::stack``` 
-it is a container adapator
-
-## ```std::map```
-
-## ```std::set```
-
 When $a \ne 0$, there are two solutions to $(ax^2 + bx + c = 0)$ and they are 
 $$ x = {-b \pm \sqrt{b^2-4ac} \over 2a} $$
 
