@@ -1,7 +1,9 @@
 ---
+layout: single
 title: 'map'
 date: 2022-11-22
-permalink: /learning/vector/vector
+permalink: /notes/vector/vector
+author_profile: true
 toc: true
 ---
 ## Background 
@@ -12,8 +14,6 @@ After working with C++ in large software projects and reading numerous threads o
 
 The purpose of writing this note is not to introduce all the nuts and bolts of C++ again as there are so many books out there that have done much better job. Rather, I want to write something practical, providing valuable and relevant information to a developer so that he/she can make the judious choice in the development. I wish this note to be of immediate help for those who just embark on their journeys of using c++.    
 
-[map22](/learning/map/map-2.md)
-[map3](map-3.md)
 
 ## ```std::vector```
 * It is a sequential container

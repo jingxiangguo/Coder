@@ -3,6 +3,7 @@ layout: single
 title: 'map'
 date: 2022-11-22
 permalink: /notes/map/
+author_profile: true
 toc: true
 ---
 ## Background 
