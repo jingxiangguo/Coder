@@ -9,8 +9,8 @@ toc: true
 ## Background 
 ---
 
-[MSEWiki]({{ site.baseurl }}{% link _notes/vector/wiki.md %})
-[MSEWiki]({{ site.baseurl }}{% link _notes/Model/MSE/wiki.md %})
+[WikiOther]({{ site.baseurl }}{% link _notes/Model/MSE/wiki.md %})
+[WikiLocal]({{ site.baseurl }}{% link _notes/vector/wiki.md %})
 
 After working with C++ in large software projects and reading numerous threads on the Stack Overflow, I realize how distant I am from completely mastering C++. As a novice, I often googled my guesses first, and then rushed to apply what I just learnt to get the work done without thinking about potentially costy trade-offs under the hood. As my experience grew, I no longer fantasied about a quick and dirty solution that solves once for all. Instead, I learn to assess the merit of a solution based on how well the overall design objectives are served. Such assessment will be deeply rooted in the understandings of C++ foundamentals, which, to me, are not trivial tasks to accomplish.    
 
