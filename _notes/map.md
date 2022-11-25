@@ -64,7 +64,8 @@ int main()
 #### ```clear()```
 #### ```emplace()```
 #### ```emplace_back()```
-
+#### ```max_size()```
+#### ```reserve()```
 
 
 

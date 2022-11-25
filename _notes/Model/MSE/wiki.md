@@ -2,7 +2,7 @@
 layout: single 
 title: 'MSE'
 date: 2022-11-26
-permalink: /notes/Model/MSE/wiki
+permalink: /notes/Model/MSE/wiki/
 author_profile: true
 toc: true
 ---
