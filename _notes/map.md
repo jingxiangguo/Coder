@@ -66,14 +66,12 @@ int main()
 #### ```emplace_back()```
 #### ```max_size()```
 #### ```reserve()```
-
-
-
+Check the content 
+This is not the only way.
 
 ## Applications 
 
-#### Case1: Iterate two ```std::vector``` simulatenously
-
+### Case1: Iterate two ```std::vector``` simulatenously
 
 ## References:
 
@@ -88,9 +86,7 @@ it is a container adapator
 When $a \ne 0$, there are two solutions to $(ax^2 + bx + c = 0)$ and they are 
 $$ x = {-b \pm \sqrt{b^2-4ac} \over 2a} $$
 
+## C++ Basics
 
-
-# C++ Basics
-
-# C++ Move 
+## C++ Move 
 
