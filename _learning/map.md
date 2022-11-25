@@ -12,7 +12,7 @@ After working with C++ in large software projects and reading numerous threads o
 
 The purpose of writing this note is not to introduce all the nuts and bolts of C++ again as there are so many books out there that have done much better job. Rather, I want to write something practical, providing valuable and relevant information to a developer so that he/she can make the judious choice in the development. I wish this note to be of immediate help for those who just embark on their journeys of using c++.    
 
-[vector]({% link vector/vector.md %})
+[vector]({{ site.baseurl }}{% link vector/vector.md %})
 [vector]({{ site.baseurl }}/vector/vector.md)
 
 ## ```std::vector```
