@@ -1,4 +1,5 @@
 ---
+layout: single 
 title: 'map'
 date: 2022-11-22
 permalink: /notes/map/
@@ -12,8 +13,7 @@ After working with C++ in large software projects and reading numerous threads o
 
 The purpose of writing this note is not to introduce all the nuts and bolts of C++ again as there are so many books out there that have done much better job. Rather, I want to write something practical, providing valuable and relevant information to a developer so that he/she can make the judious choice in the development. I wish this note to be of immediate help for those who just embark on their journeys of using c++.    
 
-[vector](vector/vector.md)
-[vector]({{ site.baseurl }}/vector/vector.md)
+[vector]({{ site.baseurl }}{% link _notes/vector/vector.md %})
 
 ## ```std::vector```
 * It is a sequential container
