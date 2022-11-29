@@ -7,6 +7,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
+Welcome! 
+I am a scientific software developer working for [OLI Systems, Inc](https://www.olisystems.com). I started this job after graudating with Ph.D. degree in chemical engineering from the [University of Houston](https://www.chee.uh.edu). At the University of Houston, I was engaged in foundamental science research of tetrahedral liquids through computer simulations. This research field interweaves computer science, statistical mechanics, and physical chemistry.  Prior to my Ph.D., I obtained Bacholer of Science in chemical engineering from the [University of Wisconsin Madison](https://engineering.wisc.edu/departments/chemical-biological-engineering/). My undergradaute studies and research projects spurred my early interests in coding, and numerical modeling. 
 
-I have been trained as a chemical engineer. During my Ph.D., I witnessed how the scientific research of supercooled liquid can be transformed by novel simulation techniques, machine learning algorithms and, most importantly, the advent of increasingly powerful supercomputers. Having realized the tremendous potential of computational approach in industrial and academic endeavors, I committed to becoming a computational scientist with addtional scientific software skills complementary to my previous STEM training. With rapid growth of machine learning algorithms and high-performance computing hardware, I believe the digitalization and automation of domain knowledge and expertise will be an inevitable movement. 
-
+This website serves as my personal notebook documenting my learning experience of C++, machine learning algorithms, and open-source software projects. I benefit immensely from the open-source community where people unconditionally share their knowledge and expertise. Now, it is my turn to give back.   
